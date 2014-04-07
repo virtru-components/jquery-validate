@@ -1,0 +1,14 @@
+{
+  "name": "jquery-validate",
+  "repo": "virtru-components/jquery-validate",
+  "description": "jquery-validate plugin",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
