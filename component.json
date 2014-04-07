@@ -4,7 +4,9 @@
   "description": "jquery-validate plugin",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "components/jquery": "*"
+    },
   "development": {},
   "license": "MIT",
   "main": "index.js",
