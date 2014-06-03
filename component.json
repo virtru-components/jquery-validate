@@ -2,10 +2,10 @@
   "name": "jquery-validate",
   "repo": "virtru-components/jquery-validate",
   "description": "jquery-validate plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {
-    "components/jquery": "*"
+    "components/jquery": "2.1.0"
     },
   "development": {},
   "license": "MIT",
