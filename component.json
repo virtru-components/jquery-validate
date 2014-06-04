@@ -5,7 +5,7 @@
   "version": "0.0.2",
   "keywords": [],
   "dependencies": {
-    "components/jquery": "2.1.0"
+    "virtru-components/jquery": "2.1.0"
     },
   "development": {},
   "license": "MIT",
